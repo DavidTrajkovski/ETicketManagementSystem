@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.AssemblyInfo.cs
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Services.deps.json
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Services.dll
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Services.pdb
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Domain.dll
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Repository.dll
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Domain.pdb
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\bin\Debug\netcoreapp3.1\TicketEShop.Repository.pdb
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.csproj.CopyComplete
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.dll
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Services\obj\Debug\netcoreapp3.1\TicketEShop.Services.pdb

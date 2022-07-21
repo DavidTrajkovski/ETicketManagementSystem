@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.AssemblyInfo.cs
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\bin\Debug\netcoreapp3.1\TicketEShop.Domain.deps.json
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\bin\Debug\netcoreapp3.1\TicketEShop.Domain.dll
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\bin\Debug\netcoreapp3.1\TicketEShop.Domain.pdb
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.dll
+C:\Users\david\source\repos\CinemaTicketsApp\TicketEShop\TicketEShop.Domain\obj\Debug\netcoreapp3.1\TicketEShop.Domain.pdb

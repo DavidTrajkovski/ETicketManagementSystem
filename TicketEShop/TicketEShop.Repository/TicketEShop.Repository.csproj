@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220713204037_stripeAndEmail.cs" />
+    <Compile Remove="Migrations\20220713204037_stripeAndEmail.Designer.cs" />
+    <Compile Remove="Migrations\20220713223030_DatePremiere.cs" />
+    <Compile Remove="Migrations\20220713223030_DatePremiere.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TicketEShop.Domain\TicketEShop.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
